@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1772
     wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42178#Leonarda--N-ytelm--nelj-ss--tapauksessa
 gutenberg_issued: '2013-02-24'
 gutenberg_type: Text
 identifiers:
